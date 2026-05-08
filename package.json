@@ -1,0 +1,11 @@
+{
+  "name": "void-walker",
+  "version": "1.0.0",
+  "description": "EchoScape — Audio-Reactive 3D Void Explorer",
+  "scripts": {
+    "start": "npx serve . --listen 3000",
+    "dev": "npx serve . --listen 3000"
+  },
+  "keywords": ["threejs", "audio-visualization", "3d", "creative-coding"],
+  "license": "MIT"
+}
